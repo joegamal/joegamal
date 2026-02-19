@@ -23,9 +23,8 @@
 
 <ul>
   <li>🌱 Passionate about <b>System Design, Problem Solving, & Software Engineering</b>.</li>
-  <li>📬 How to reach me: <b>noureldeenmoh45@gmail.com</b></li>
+  <li>📬 How to reach me: <a href="yusufmagamalth@gmail.com">yusufmagamalth@gmail.com</a></li>
 </ul>
-<img src="yusufmagamalth@gmail.com" width="300px" />
     
 <!--
 **joegamal/joegamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
