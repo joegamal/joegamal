@@ -42,7 +42,7 @@ Let's connect! 🌍
 ### 🛠️ Tech Stack
 
 #### 📋 Languages
-[![My Skills](https://skillicons.dev/icons?i=py,js,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,cs,py,js)](https://skillicons.dev)
 
 #### 🚀 Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,react)](https://skillicons.dev)
