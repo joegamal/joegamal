@@ -102,34 +102,34 @@ Let's connect! 🌍
 ### 🎓 University Projects
 
 ### Computer Graphics
-- [2d drawing application]Soon
+- Soon
 
 #### High Performance Computing 🖥️
-- [Ceaser Cipher & Array search Implementation using MPI]Soon
-- [OpenMP Tasks]Soon
+- Soon
+- Soon
 
 #### Artificial Intelligence 🤖
-- [League AI - Queries on Dataset]Soon
+- Soon
 
 #### Operating Systems ⚙️
-- [Entire OS using C]In Progress
-- [Bash commands using C#]In Progress
-- [CPU Scheduling algorithms: Round Robin]In Progress
-- [Threads, semaphores and deadlocks]In Progress
+- [Entire OS using C] --> In Progress
+- [Bash commands using C#] --> In Progress
+- [CPU Scheduling algorithms: Round Robin] --> In Progress
+- [Threads, semaphores and deadlocks] --> In Progress
 
 #### Software Engineering 📊
-- [Learning Management System Backend using Java Spring Boot]Soon
+- [Learning Management System Backend using Java Spring Boot] --> Soon
 
 #### Web Technology 🕸️
-- [Book Borrowing system using HTML, CSS, JS and Python-Django]Soon
+- [Book Borrowing system using HTML, CSS, JS and Python-Django] --> Soon
 
 #### Database Systems 🚢
-- [Library Management System using SQL Server and C# for WinForms]Soon
+- [Library Management System using SQL Server and C# for WinForms] --> Soon
 
 #### Data Structures 🌲
-- [Data Structures Implementation]In Progress
+- [Data Structures Implementation] --> In Progress
 
 ### Algorithms 💡
-- [Advanced Data Structres implementation + Advanced problem solving algorithms]Soon
+- [Advanced Data Structres implementation + Advanced problem solving algorithms] --> Soon
 
 ⭐ From [Yusuf Gamal](https://github.com/joegamal)
