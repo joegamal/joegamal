@@ -35,7 +35,7 @@ Let's connect! 🌍
 </p>
 
 - 🌱 Passionate about **System Design, Problem Solving, & Software Engineering.**
-- 📫 How to reach me: **noureldeenmoh45@gmail.com**
+- 📫 How to reach me: **yusufmagamalth@gmail.com**
 
 ---
 
