@@ -102,34 +102,34 @@ Let's connect! 🌍
 ### 🎓 University Projects
 
 ### Computer Graphics
-- [2d drawing application](https://github.com/NourEldeenM/2d-drawing-program)
+- [2d drawing application]Soon
 
 #### High Performance Computing 🖥️
-- [Ceaser Cipher & Array search Implementation using MPI](https://github.com/NourEldeenM/message-passing-interface-tasks)
-- [OpenMP Tasks](https://github.com/NourEldeenM/open-mp-tasks-hpc)
+- [Ceaser Cipher & Array search Implementation using MPI]Soon
+- [OpenMP Tasks]Soon
 
 #### Artificial Intelligence 🤖
-- [League AI - Queries on Dataset](https://github.com/NourEldeenM/league_AI)
+- [League AI - Queries on Dataset]Soon
 
 #### Operating Systems ⚙️
-- [OS Disk Scheduling Algroithms Simulation using C++](https://github.com/NourEldeenM/disk-scheduling-algorithms)
-- [Bash commands using Java](https://github.com/NourEldeenM/PlutOS)
-- [CPU Scheduling algorithms](https://github.com/NourEldeenM/StellarScheduler)
-- [Threads, semaphores and deadlocks](https://github.com/NourEldeenM/NeptuneParking)
+- [Entire OS using C]In Progress
+- [Bash commands using C#]In Progress
+- [CPU Scheduling algorithms: Round Robin]In Progress
+- [Threads, semaphores and deadlocks]In Progress
 
 #### Software Engineering 📊
-- [Learning Management System Backend using Java Spring Boot](https://github.com/NourEldeenM/MarsAcademy)
+- [Learning Management System Backend using Java Spring Boot]Soon
 
 #### Web Technology 🕸️
-- [Book Borrowing system using HTML, CSS, JS and Python-Django](https://github.com/NourEldeenM/Chapterfly)
+- [Book Borrowing system using HTML, CSS, JS and Python-Django]Soon
 
 #### Database Systems 🚢
-- [Library Management System using SQL Server and C# for WinForms](https://github.com/NourEldeenM/LibraryManagementSystem)
+- [Library Management System using SQL Server and C# for WinForms]Soon
 
 #### Data Structures 🌲
-- [Data Structures Implementation](https://github.com/NourEldeenM/DataStruct-Project-FCAI-CU)
+- [Data Structures Implementation]In Progress
 
 ### Algorithms 💡
-- [Advanced Data Structres implementation + Advanced problem solving algorithms](https://github.com/NourEldeenM/Algorithms-Group-Assignments)
+- [Advanced Data Structres implementation + Advanced problem solving algorithms]Soon
 
-⭐ From [Noureldeen](https://github.com/noureldeenm)
+⭐ From [Yusuf Gamal](https://github.com/joegamal)
