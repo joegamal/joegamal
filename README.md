@@ -7,7 +7,6 @@
 
 ###
 
-<div height="1" color="gray"></div>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
@@ -18,6 +17,7 @@
   </a>
 </p>
 
+<div height="1" color="gray"></div>
 <!--
 **joegamal/joegamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
