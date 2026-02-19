@@ -61,14 +61,6 @@ Let's connect! 🌍
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=joegamal&show_icons=true&theme=radical" alt="joegamal's Stats" />
 </p>
 
-
-
-
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noureldeenm&show_icons=true&locale=en&layout=compact&theme=radical" alt="noureldeenm" />
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=noureldeenm&show_icons=true&locale=en&theme=radical" alt="noureldeenm" /> -->
 </p>
 <!-- 
@@ -82,16 +74,16 @@ Let's connect! 🌍
 ### 🎮 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/noureldeenmohamed">
+  <a href="https://www.linkedin.com/in/yusuf-gamal-211968296/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.hackerrank.com/noureldeenmoh45">
+  <a href="https://www.hackerrank.com/profile/yusufmagamalth">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50"/>
   </a>
-  <a href="mailto:noureldeenmoh45@gmail.com">
+  <a href="mailto:yusufmagamalth@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://leetcode.com/u/52Nzo9arpa/">
+  <a href="https://leetcode.com/u/rLblCgtPwF/">
     <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" width="50"/>
   </a>
 </p>
