@@ -1,9 +1,9 @@
 <h1 align="center"> Hello World! I'am Yusuf 👋 </h1> 
 <br>
 
-<td width="40%" align="center">
-  <img src="[your-animation.gif](https://camo.githubusercontent.com/3af2daa3b28206f8f45cf37ef00f230d674fb7da2374b97b8428f47490a76fe5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3232443346372663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d536f6674776172652b456e67696e6565723b50726f626c656d2b536f6c7665723b546563682b456e74687573696173743b436f6e74696e756f75732b4c6561726e6572)" width="250" alt="Coding Animation" />
-</td>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=false&vCenter=true&width=435&lines=Software+Engineer;Backend+Developer+(.NET+%26+Laravel);Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</p>
 
 <!--
 **joegamal/joegamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
