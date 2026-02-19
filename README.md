@@ -19,6 +19,8 @@
 
 <hr>
 
+<h2>📖 About me</h2>
+
 <!--
 **joegamal/joegamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
