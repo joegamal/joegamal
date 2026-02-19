@@ -7,7 +7,7 @@
 
 ###
 
-<br>
+<div height="1" color="gray"></div>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
