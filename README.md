@@ -23,7 +23,7 @@
 
 <ul>
   <li>🌱 Passionate about <b>System Design, Problem Solving, & Software Engineering</b>.</li>
-  <li>📬 How to reach me: <a href="yusufmagamalth@gmail.com">yusufmagamalth@gmail.com</a></li>
+  <li>📬 How to reach me: <a href="#">yusufmagamalth@gmail.com</a></li>
 </ul>
     
 <!--
