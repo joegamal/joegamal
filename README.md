@@ -1,13 +1,13 @@
 <!--  
-⚠️ This portfolio was built with dedication and effort by Nour Eldeen Mohamed.  
+⚠️ This portfolio was built with dedication and effort by Yusuf Gamal Elhusseiny.  
 If you use or refer this project, please give proper credit. Thanks for your consideration, & best of luck 😍
 Let's connect! 🌍  
-🔗 LinkedIn: https://linkedin.com/in/noureldeenmohamed
-📧 Email: noureldeenmoh45@gmail.com
+🔗 LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/yusuf-gamal-211968296/)
+📧 Email: yusufmagamalth@gmail.com
 -->
 
 
-<h1 align="center">👋 Hello World! I'm Nour</h1>
+<h1 align="center">👋 Hello World! I'm Yusuf</h1>
 <!-- <h3 align="center">🚀 Software Engineer</h3>
  -->
 <p align="center">
@@ -18,7 +18,7 @@ Let's connect! 🌍
 <!--   <a href="https://git.io/typing-svg">
     <img src="https://komarev.com/ghpvc/?username=noureldeenm&label=Profile%20views&color=0e75b6&style=flat" alt="noureldeenm" />
   </a> -->
-  <a href="https://www.linkedin.com/in/noureldeenmohamed/">
+  <a href="https://www.linkedin.com/in/yusuf-gamal-211968296/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1GhAgY9FtBQLMxIbvmOihzq0KOWti4k4C/view?usp=sharing">
