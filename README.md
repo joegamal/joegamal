@@ -30,7 +30,7 @@ Let's connect! 🌍
 
 ### 📖 About Me
 
-<p align="center">
+<p align="left">
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
