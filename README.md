@@ -57,8 +57,8 @@ Let's connect! 🌍
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=joegamal&show_icons=true&theme=radical&layout=compact" alt="joegamal's Languages" />
-  <br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=joegamal&show_icons=true&theme=radical" alt="noureldeenm's Stats" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=joegamal&show_icons=true&theme=radical" alt="joegamal's Stats" />
 </p>
 
 
