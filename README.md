@@ -17,7 +17,8 @@
   </a>
 </p>
 
-<div height="1" color="gray"></div>
+<hr>
+
 <!--
 **joegamal/joegamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
