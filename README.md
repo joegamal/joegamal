@@ -21,6 +21,9 @@
 
 <h2>📖 About me</h2>
 
+<p>* 🌱 Passionate about System Design, Problem Solving, & Software Engineering.</p>
+<p>* 📫 How to reach me: noureldeenmoh45@gmail.com</p>
+
 <!--
 **joegamal/joegamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
