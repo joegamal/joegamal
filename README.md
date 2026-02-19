@@ -5,6 +5,17 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
 
+<br>
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="YOUR_RESUME_DRIVE_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
+  </a>
+</p>
+
 <!--
 **joegamal/joegamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
