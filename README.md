@@ -45,7 +45,7 @@ Let's connect! 🌍
 [![My Skills](https://skillicons.dev/icons?i=php,cs,py,js)](https://skillicons.dev)
 
 #### 🚀 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=laravel,dotnet,vuejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,dotnet,vuejs,nodejs)](https://skillicons.dev)
 
 #### 🔨 Tools
 [![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions,jenkins,rabbitmq,redis)](https://skillicons.dev)
